@@ -59,6 +59,9 @@ contract MyToken is ERC721, Pausable, Ownable, ERC721Burnable {
 }
 
 ```
+
+⌨️ with ❤️ for [asmel](https://github.com/asmel2020) 😊
+
 ## License
 
 MIT
